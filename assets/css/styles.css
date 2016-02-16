@@ -251,7 +251,7 @@ input[type=text]:focus {
     font-size: 1.8rem;
     margin-bottom: 20px;
   }
-  .banner-text {
+  .banner .banner-text {
     font-size: 1rem;
     line-height: 2rem;
   }
