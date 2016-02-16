@@ -211,7 +211,7 @@ input[type=text]:focus {
     height: 500px;
     padding: 30px 0;
   }
-  .logo {
+  .banner .logo {
     font-size: 1.8rem;
     margin-bottom: 20px;
   }
@@ -255,7 +255,7 @@ input[type=text]:focus {
 }
 
 @media (max-width: 500px) {
-  .logo {
+  .banner .logo {
     font-size: 1.7rem;
     margin-bottom: 20px;
   }
